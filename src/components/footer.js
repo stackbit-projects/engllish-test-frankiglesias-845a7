@@ -67,7 +67,7 @@ const Footer = ({ menus }) => {
                     </div>
                 }
                 <div className="footer__content">
-                    <h3 className="text-lg font-bold mb-4">Redes sociales</h3>
+                    <h3 className="text-lg font-bold mb-4">Redes</h3>
                     <ul className="flex text-sm">
                         <li className="mb-2 mr-4">
                             <a href={ data.contentfulContactDetails.facebookUrl }>
